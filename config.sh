@@ -141,6 +141,7 @@ case "$1" in
 	echo "Flags are passed through to |./repo sync|."
 	echo
 	echo Valid devices to configure are:
+	echo - lg-2x
 	echo - galaxy-s2
 	echo - galaxy-nexus
 	echo - nexus-4
